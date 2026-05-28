@@ -29,5 +29,3 @@ python main.py
 * Iterating through complex, nested data structures (List of Dictionaries).
 * Utilizing enumerate() for generating clean user-facing index counters.
 * Handling conditional string cleaning to prevent input evaluation bugs.
-* Utilizing enumerate() for generating clean user-facing index counters.
-* Handling conditional string cleaning to prevent input evaluation bugs.
